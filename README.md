@@ -9,3 +9,6 @@ calc. keys.
 Also manage user errors such as if someone tries to add more than one decimal point to the displayed Number.
 
 I also try and use some of the more interesting html5 features such as Event Delegation. Making use of the HTMLElement.dataset attribute to store values.
+
+If you want to try it out for now just download the files and run the HTML in a browser. Live link coming soon. 
+(PS This is still just the happy path, AC doesnt work yet.)
